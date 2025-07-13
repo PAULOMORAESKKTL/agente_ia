@@ -30,3 +30,9 @@ Este projeto foi desenvolvido como parte do curso de programação orientado à 
 ├── identificador_de_perfil.py
 ├── main.py
 ├── requirements.txt
+## 📦 Como instalar e executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/PAULOMORAESKKTL/agente_ia.git
+   cd agente_ia
